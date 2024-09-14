@@ -1,1 +1,1 @@
-soulteary/image-search-engine:latest
+soulteary/image-search-engine
